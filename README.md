@@ -6,6 +6,9 @@ Future updates will include a live tracker of busses in real time and additional
 The map can be viewed on github pages: https://lpcreates.github.io/Bus-Route-Tracker/
 <br>
 <br>
+How to Run: Create new folder on your local system. Copy index.html, mittoharvard.js and styles.css to the folder. Double click or right click/open index.html
+<br>
+<br>
 MIT License
 
 Copyright (c) 2021 lpcreates
